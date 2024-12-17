@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in PHP related to modifying arrays while iterating with `foreach`. The `bug.php` file shows the incorrect behavior, while `bugSolution.php` offers a corrected approach.  This is crucial for understanding how PHP handles array manipulation during iteration to prevent unexpected data loss or incorrect results.
